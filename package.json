@@ -3,7 +3,7 @@
   "name": "com.eric_util.logger",
   "displayName": "Logger",
   "description": "A Unity Logger Tool",
-  "version": "1.0",
+  "version": "1.0.0",
   "unity": "2018.4",
   "license": "MIT",
   "repository": {
