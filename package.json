@@ -1,0 +1,22 @@
+
+{
+  "name": "com.eric_util.logger",
+  "displayName": "Logger",
+  "description": "A Unity Logger Tool",
+  "version": "1.0",
+  "unity": "2018.4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricZRY/unity_logger.git"
+  },
+  "author": {
+    "name": "eric zhang",
+    "email": "eric.z@qq.com",
+    "url": "https://github.com/EricZRY/unity_logger"
+  },
+  "dependencies": {},
+  "keywords": [
+    "logger"
+  ]
+}
